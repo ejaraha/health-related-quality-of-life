@@ -1,2 +1,2 @@
 # health-related-quality-of-life
-A visualization of the Health-Related Quality of Life (HRQOL) dataset from CDC's Behavioral Risk Factor Surveillance System (BRFSS) survey
+A visualization of the Health Related Quality of Life (HRQOL) dataset from the CDC's Behavioral Risk Factor Surveillance System (BRFSS) survey
